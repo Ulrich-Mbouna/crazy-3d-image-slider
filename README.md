@@ -12,7 +12,7 @@ Pour avoir ce projet en local, veuillez juste cloner ce dépot.
 - CSS
 ## Demo
 Pour voir la demo de ce projet en ligne, merci de visiter le site suivant
-[Crazy 3d Image Slider Demo](https://google.com).
+[Crazy 3d Image Slider Demo](https://crazy-3d-image-slider.onrender.com/).
 
 ## Follow Me
 Vou pouvez me suivre sur les différents Réseaux sociaux :
